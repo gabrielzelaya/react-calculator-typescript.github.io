@@ -2,7 +2,7 @@
   "name": "calculator-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gabrielzelaya.github.io/react-calculator-typescript.github.io/build",
+  "homepage": "https://github.com/gabrielzelaya/react-calculator-typescript.github.io/build",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
